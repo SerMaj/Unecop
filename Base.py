@@ -1,4 +1,4 @@
 print("Hi, my boy!")
 
-print("Chose( mo(de")
+print("Chose mode")
 n = int(input())
